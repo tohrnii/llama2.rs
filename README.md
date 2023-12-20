@@ -1,1 +1,1 @@
-# llama2.rs
+# Yet another llama2.c port to rust
